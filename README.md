@@ -1,7 +1,9 @@
-TypeScript React "material-ui" Demo
+TypeScript React "material-ui" "material-table" Demo
 ===================================
 
-如何使用TypeScript来写"material-ui"
+https://material-table.com/
+
+页面上有一些奇怪的文字和符号，样式也不太美观，感觉有点粗糙，不知道为什么
 
 ```
 npm install
